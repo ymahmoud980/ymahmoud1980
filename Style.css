@@ -1,0 +1,61 @@
+h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  main > section {
+    padding: 30px;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  header {
+    text-align: center;
+    background: #5ba378;
+    color: white;
+    padding: 30px;
+    padding-right: 70px;
+    padding-left: 70px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  header #subtitle {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    border: 1px white solid;
+    padding: 5px;
+  }
+  
+  header p {
+    font-size: 0.8em;
+    max-width: 400px;
+  }
+  
+  #projects-container {
+    margin-top: 20px;
+  }
+  
+  #projects-container a {
+    margin-top: 10px;
+  }
+  /* section#www {
+    background-image: url("https://getwallpapers.com/wallpaper/full/4/5/c/165919.jpg");
+    background: cover;
+  }
+   */
